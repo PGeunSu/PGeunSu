@@ -23,7 +23,7 @@
 
 <br><br>
 
-<h2 align="center">🎁 Project 🎁 </h2>
+<h2 align="center"> 🎁 Project 🎁 </h2>
 <div align = "center">
 <a href="https://github.com/PGeunSu/Spring-Project"><img src="https://img.shields.io/badge/Spring Boot Project-6DB33FF?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp;
 <a href="https://github.com/PGeunSu/Signiel-Hotel-Website-Project"><img src="https://img.shields.io/badge/JSP Signiel Hotel Project-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a> &nbsp;
